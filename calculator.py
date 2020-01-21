@@ -6,7 +6,6 @@ For example:
 28.11.2019+10 -> 08.12.2019
 28.11.2019-50 -> 09.10.2019
 25.10.2019-22.08.2019 -> 64 days
-YYY
 """
 
 from calcdigits import calculate_digits
